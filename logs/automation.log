@@ -1,0 +1,79 @@
+
+01-Oct-26 01:16:04 - root - INFO - ***** with dd excel data *****
+01-Oct-26 01:20:07 - root - INFO - ***** with dd excel data *****
+01-Oct-26 01:21:45 - root - INFO - ***** with dd excel data *****
+01-Oct-26 01:25:05 - root - INFO - ***** with dd excel data *****
+01-Oct-26 01:25:07 - root - INFO - ***** passed!!! *****
+01-Oct-26 01:25:12 - root - INFO - *****passed!!!*******
+01-Oct-26 01:25:13 - root - INFO - *****passed!!!*******
+01-Oct-26 01:25:15 - root - INFO - *****passed!!!*******
+01-Oct-26 01:25:15 - root - INFO - *****passed!!!******* 
+01-Oct-26 01:25:15 - root - INFO - **** test is completed *****
+01-Oct-26 02:02:08 - root - INFO - ***** with dd excel data *****
+01-Oct-26 02:02:10 - root - INFO - ***** passed!!! *****
+01-Oct-26 02:02:15 - root - INFO - *****passed!!!*******
+01-Oct-26 02:02:17 - root - INFO - *****passed!!!*******
+01-Oct-26 02:02:19 - root - INFO - *****passed!!!*******
+01-Oct-26 02:02:19 - root - INFO - *****passed!!!******* 
+01-Oct-26 02:02:19 - root - INFO - **** test is completed *****
+01-Oct-26 02:03:22 - root - INFO - ***** with dd excel data *****
+01-Oct-26 02:03:24 - root - INFO - ***** passed!!! *****
+01-Oct-26 02:03:29 - root - INFO - *****passed!!!*******
+01-Oct-26 02:03:31 - root - INFO - *****passed!!!*******
+01-Oct-26 02:03:33 - root - INFO - *****passed!!!*******
+01-Oct-26 02:03:33 - root - INFO - *****passed!!!******* 
+01-Oct-26 02:03:33 - root - INFO - **** test is completed *****
+01-Oct-26 02:05:13 - root - INFO - ** providing customer id**
+01-Oct-26 02:05:17 - root - INFO - **End providing customer id**
+01-Oct-26 02:05:17 - root - INFO - **End searching customer id**
+01-Oct-26 02:05:18 - root - INFO - **test is successful**
+01-Oct-26 02:37:50 - root - INFO - ***** with dd excel data *****
+01-Oct-26 02:39:30 - root - INFO - ***** with dd excel data *****
+01-Oct-26 02:39:40 - root - INFO - ***** passed!!! *****
+01-Oct-26 02:39:59 - root - INFO - *****passed!!!*******
+01-Oct-26 02:40:06 - root - INFO - *****passed!!!*******
+01-Oct-26 02:40:15 - root - INFO - *****passed!!!*******
+01-Oct-26 02:40:15 - root - INFO - *****passed!!!******* 
+01-Oct-26 02:40:15 - root - INFO - **** test is completed *****
+01-Oct-26 02:44:37 - root - INFO - ***** with dd excel data *****
+01-Oct-26 02:44:39 - root - INFO - ***** passed!!! *****
+01-Oct-26 02:44:44 - root - INFO - *****passed!!!*******
+01-Oct-26 02:44:46 - root - INFO - *****passed!!!*******
+01-Oct-26 02:44:47 - root - INFO - *****passed!!!*******
+01-Oct-26 02:44:47 - root - INFO - *****passed!!!******* 
+01-Oct-26 02:44:49 - root - INFO - **** test is completed *****
+03-Oct-26 07:53:37 - root - INFO - ***** with dd excel data *****
+03-Oct-26 07:53:38 - root - INFO - ***** passed!!! *****
+03-Oct-26 07:53:43 - root - INFO - *****passed!!!*******
+03-Oct-26 07:53:44 - root - INFO - *****passed!!!*******
+03-Oct-26 07:53:45 - root - INFO - *****passed!!!*******
+03-Oct-26 07:53:45 - root - INFO - *****passed!!!******* 
+03-Oct-26 07:53:47 - root - INFO - **** test is completed *****
+03-Oct-26 07:58:46 - root - INFO - ** providing customer id**
+03-Oct-26 07:58:48 - root - INFO - **End providing customer id**
+03-Oct-26 07:58:48 - root - INFO - **End searching customer id**
+03-Oct-26 07:58:48 - root - INFO - **test is successful**
+03-Oct-26 08:27:52 - root - INFO - ***** with dd excel data *****
+03-Oct-26 08:28:17 - root - INFO - ** providing customer id**
+03-Oct-26 08:28:19 - root - INFO - **End providing customer id**
+03-Oct-26 08:28:19 - root - INFO - **End searching customer id**
+03-Oct-26 08:28:19 - root - INFO - **test is successful**
+03-Oct-26 08:30:56 - root - INFO - ***** with dd excel data *****
+03-Oct-26 08:31:21 - root - INFO - ** providing customer id**
+03-Oct-26 08:31:24 - root - INFO - **End providing customer id**
+03-Oct-26 08:31:24 - root - INFO - **End searching customer id**
+03-Oct-26 08:31:24 - root - INFO - **test is successful**
+03-Oct-26 08:34:08 - root - INFO - ***** with dd excel data *****
+03-Oct-26 08:34:33 - root - INFO - ** providing customer id**
+03-Oct-26 08:34:34 - root - INFO - **End providing customer id**
+03-Oct-26 08:34:34 - root - INFO - **End searching customer id**
+03-Oct-26 08:34:35 - root - INFO - **test is successful**
+03-Oct-26 08:38:07 - root - INFO - ***** with dd excel data *****
+03-Oct-26 08:38:26 - root - INFO - ** providing customer id**
+03-Oct-26 08:38:27 - root - INFO - **End providing customer id**
+03-Oct-26 08:38:27 - root - INFO - **End searching customer id**
+03-Oct-26 08:38:29 - root - INFO - **test is successful**
+03-Oct-26 08:39:31 - root - INFO - ** providing customer id**
+03-Oct-26 08:39:33 - root - INFO - **End providing customer id**
+03-Oct-26 08:39:33 - root - INFO - **End searching customer id**
+03-Oct-26 08:39:34 - root - INFO - **test is successful**
