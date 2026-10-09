@@ -7,6 +7,7 @@ from selenium.webdriver.support.ui import Select, WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 import pytest
+import os
 import pytest_html
 from Utilities.read_properties import ReadProperties
 base_url=ReadProperties.get_url()
@@ -37,11 +38,26 @@ def pytest_addoption(parser):
 def browser(request):
     browser = request.config.getoption("--browser")
     if browser=="edge":
-        driver = webdriver.Edge()
+        option =Options()
+        if os.getenv("BUILD_NUMBER") or os.getenv("JENKINS_HOME"):
+            option.add_argument("--headless=new")
+            option.add_argument("--no-sandbox")
+            option.add_argument("--disable-dev-shm-usage")
+
+        driver = webdriver.Edge(options=option)
     elif browser=="chrome":
-        driver = webdriver.Chrome()
+        option = Options()
+        if os.getenv("BUILD_NUMBER") or os.getenv("JENKINS_HOME"):
+            option.add_argument("--headless=new")
+            option.add_argument("--no-sandbox")
+            option.add_argument("--disable-dev-shm-usage")
+        driver = webdriver.Chrome(options=option)
     elif browser=="firefox":
-        driver = webdriver.Firefox()
+        option = Options()
+        if os.getenv("BUILD_NUMBER") or os.getenv("JENKINS_HOME"):
+            option.add_argument("-headless")
+
+        driver = webdriver.Firefox(options=option)
     else:
         raise ValueError("Unknown browser,edge,chrome,firefox")
     driver.maximize_window()
