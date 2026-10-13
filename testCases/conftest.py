@@ -51,6 +51,7 @@ def browser(request):
             option.add_argument("--disable-gpu")
             option.add_argument("--no-sandbox")
             option.add_argument("--disable-dev-shm-usage")
+            option.add_argument("--user-data-dir=C:\\temp\\edge_profile")
             option.add_argument("--remote-debugging-port=9222")
         driver = webdriver.Chrome(options=option)
     elif browser=="firefox":
