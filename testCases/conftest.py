@@ -43,6 +43,7 @@ def browser(request):
             option.add_argument("--headless=new")
             option.add_argument("--no-sandbox")
             option.add_argument("--disable-dev-shm-usage")
+            option.add_argument("--start-maximized")
         driver = webdriver.Edge(options=option)
     elif browser=="chrome":
         option= Options()
