@@ -40,7 +40,7 @@ def browser(request):
     if browser=="edge":
         option =Options()
         if os.getenv("BUILD_NUMBER") or os.getenv("JENKINS_HOME"):
-            option.add_argument("--headless=new")
+            # option.add_argument("--headless=new")
             option.add_argument("--no-sandbox")
             option.add_argument("--disable-dev-shm-usage")
             option.add_argument("--start-maximized")
